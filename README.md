@@ -79,6 +79,30 @@ customer-revenue-kpi-analysis/
 
 ---
 
+## Business Insights
+
+Key findings from the analysis:
+
+- Revenue trends indicate consistent customer purchasing behavior across months.
+- A meaningful portion of customers place multiple orders, showing retention potential.
+- Regional performance differences highlight opportunities for targeted expansion.
+- Category performance varies by region, suggesting localized product demand.
+- Shipping speed differences reveal operational trade-offs between delivery modes.
+
+---
+
+## Business Impact
+
+This project demonstrates how SQL analysis can support:
+
+- KPI monitoring for business performance
+- Customer retention evaluation
+- Revenue growth tracking
+- Operational efficiency improvement
+- Data-driven strategic decision making
+
+---
+
 ## Author
 
 Meena Potlacheruvu
