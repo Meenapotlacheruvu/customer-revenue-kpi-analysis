@@ -103,6 +103,23 @@ This project demonstrates how SQL analysis can support:
 
 ---
 
+## Query Results (Evidence)
+
+### KPI Summary
+![KPI Summary](images/Screenshot 2026-02-25 125303.png)
+
+### Repeat Customer Rate
+![Repeat Customers](images/Screenshot 2026-02-25 125354.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue](images/Screenshot 2026-02-25 125435.png)
+
+### Best Category by Region
+![Best Category](images/Screenshot 2026-02-25 125505.png)
+
+### Shipping Speed Analysis
+![Shipping Speed](images/Screenshot 2026-02-25 125549.png)
+
 ## Author
 
 Meena Potlacheruvu
