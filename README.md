@@ -1,5 +1,20 @@
 # Customer Revenue KPI Analysis (SQL)
 
+## Executive Summary
+
+This analysis evaluates revenue performance, customer retention, and operational efficiency using retail transaction data.
+
+Key findings:
+- Total revenue: 28,609.93 across 72 orders.
+- Repeat customer rate is 4.35%, indicating weak customer retention.
+- Revenue shows volatility with spikes in late 2016.
+- Furniture drives the highest revenue across most regions.
+- Standard shipping averages 5.09 days, more than double First Class (2.19 days).
+
+The business appears revenue-generating but retention-poor, with potential operational optimization opportunities.
+
+---
+
 ## Project Overview
 
 This project analyzes retail transaction data using **SQL (MySQL)** to evaluate modern business performance metrics such as customer retention, revenue growth, and operational efficiency.
@@ -47,12 +62,12 @@ customer-revenue-kpi-analysis/
 ├── sql/
 │   └── project2_kpi_analysis.sql
 │
-├── outputs/
-│   ├── kpi_summary.csv
-│   ├── repeat_customer_rate.csv
-│   ├── monthly_revenue.csv
-│   ├── best_category_by_region.csv
-│   └── shipping_speed.csv
+├── images/
+│   ├── kpi_summary.png
+│   ├── repeat_customers.png
+│   ├── monthly_revenue.png
+│   ├── best_category_region.png
+│   └── shipping_speed.png
 │
 └── README.md
 ```
@@ -79,18 +94,6 @@ customer-revenue-kpi-analysis/
 
 ---
 
-## Business Insights
-
-Key findings from the analysis:
-
-- Revenue trends indicate consistent customer purchasing behavior across months.
-- A meaningful portion of customers place multiple orders, showing retention potential.
-- Regional performance differences highlight opportunities for targeted expansion.
-- Category performance varies by region, suggesting localized product demand.
-- Shipping speed differences reveal operational trade-offs between delivery modes.
-
----
-
 ## Business Impact
 
 This project demonstrates how SQL analysis can support:
@@ -100,6 +103,28 @@ This project demonstrates how SQL analysis can support:
 - Revenue growth tracking
 - Operational efficiency improvement
 - Data-driven strategic decision making
+
+---
+
+## Recommended Business Actions
+
+Based on the analysis:
+
+- Improve customer retention through loyalty programs or targeted re-engagement campaigns.
+- Investigate causes of low repeat purchase behavior.
+- Focus inventory investment on high-performing regional categories.
+- Evaluate logistics improvements to reduce Standard Class shipping delays.
+- Monitor monthly revenue volatility to stabilize forecasting and planning.
+
+---
+
+## Key Insights
+
+- Revenue was generated across 72 total orders, indicating moderate transaction volume.
+- Customer retention is low (4.35% repeat rate), suggesting dependence on new customers.
+- Revenue fluctuations suggest potential seasonality or inconsistent demand.
+- Furniture products consistently outperform other categories across regions.
+- Delivery speed varies significantly by shipping mode, impacting customer experience.
 
 ---
 
@@ -122,13 +147,18 @@ This project demonstrates how SQL analysis can support:
 ### Shipping Speed Analysis
 ![Shipping Speed](images/shipping_speed.png)
 
-## Key Insights
+---
 
-- Total revenue generated: 28,609.93 across 72 orders.
-- Repeat customer rate is 4.35%, indicating low customer retention.
-- Revenue shows volatility month-to-month with spikes in late 2016.
-- Furniture dominates revenue across most regions.
-- Standard Class shipping takes significantly longer (5.09 days) compared to First Class (2.19 days), suggesting potential operational optimization opportunities.
+## Skills Demonstrated
+
+- SQL Data Analysis
+- KPI Development & Business Metrics
+- Window Functions & Aggregations
+- Customer Retention Analysis
+- Operational Performance Analysis
+- Analytical Storytelling
+
+---
 
 ## Author
 
