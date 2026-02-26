@@ -105,20 +105,22 @@ This project demonstrates how SQL analysis can support:
 
 ## Query Results (Evidence)
 
-### KPI Summary
-![KPI Summary](images/Screenshot 2026-02-25 125303.png)
+## KPI Results
 
-### Repeat Customer Rate
-![Repeat Customers](images/Screenshot 2026-02-25 125354.png)
+### KPI Summary
+![KPI Summary](images/kpi_summary.png)
+
+### Repeat Customer Analysis
+![Repeat Customers](images/repeat_customers.png)
 
 ### Monthly Revenue Trend
-![Monthly Revenue](images/Screenshot 2026-02-25 125435.png)
+![Monthly Revenue](images/monthly_revenue.png)
 
 ### Best Category by Region
-![Best Category](images/Screenshot 2026-02-25 125505.png)
+![Best Category](images/best_category_region.png)
 
 ### Shipping Speed Analysis
-![Shipping Speed](images/Screenshot 2026-02-25 125549.png)
+![Shipping Speed](images/shipping_speed.png)
 
 ## Author
 
