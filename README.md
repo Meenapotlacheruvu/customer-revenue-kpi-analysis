@@ -122,6 +122,14 @@ This project demonstrates how SQL analysis can support:
 ### Shipping Speed Analysis
 ![Shipping Speed](images/shipping_speed.png)
 
+## Key Insights
+
+- Total revenue generated: 28,609.93 across 72 orders.
+- Repeat customer rate is 4.35%, indicating low customer retention.
+- Revenue shows volatility month-to-month with spikes in late 2016.
+- Furniture dominates revenue across most regions.
+- Standard Class shipping takes significantly longer (5.09 days) compared to First Class (2.19 days), suggesting potential operational optimization opportunities.
+
 ## Author
 
 Meena Potlacheruvu
